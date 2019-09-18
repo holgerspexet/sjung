@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:300');
+body {
+  font-family: 'Fira Sans', sans-serif;
+  line-height: 1.6;
+  color: #222;
+  max-width: 50rem;
+  padding: 2rem;
+  margin: auto;
+  background: #fafafa;
+	line-height: 1.7;
+}
+
+th {
+		padding: 2rem;
+}
+
+td {
+		text-align: center;
+		padding: 0.75rem;
+}
+
+tr:nth-child(even) { background-color: #f7f2f2; }
